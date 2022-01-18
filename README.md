@@ -50,22 +50,23 @@
 
 For this question you’ll need to use SQL. Follow this link (https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL) to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
 
-1. How many orders were shipped by Speedy Express in total?\
-2. What is the last name of the employee with the most orders?\
-3. What product was ordered the most by customers in Germany?\
+1. How many orders were shipped by Speedy Express in total?
+2. What is the last name of the employee with the most orders?
+3. What product was ordered the most by customers in Germany?
 
 ## Answers: 
 
 1. How many orders were shipped by Speedy Express in total? 
+
    =>> **54**
 
 2. What is the last name of the employee with the most orders?
 
-   =>> **Employee: Peacock**\
-   **Most orders: 40**
+   =>> **Employee: Peacock**
+       **Most orders: 40**
 
 3. What product was ordered the most by customers in Germany? <br/>
 
-   =>> **Boston Crab Meat**\
-    **Number of orders : 160**
+   =>> **Boston Crab Meat**
+       **Number of orders : 160**
    
